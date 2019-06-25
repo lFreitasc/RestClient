@@ -1,0 +1,15 @@
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dao/ClienteDAO.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/negocio/ClienteNegocio.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/negocio/PaisNegocio.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/servico/ServicoPais.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/excecao/NomeClienteMenor5CaracteresException.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/servico/ServicoCliente.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dao/ClienteDAO_OLD.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/excecao/NomeClienteJaExisteException.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/ProjectExampleApplication.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dto/ClienteDTO.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dao/PaisDAO_OLD.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dao/Pais.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dao/Cliente.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dao/PaisDAO.java
+/home/lucas/hd/documentos/arquitetura/2019-01/lesson-25/back-end/src/main/java/br/edu/utfpr/dto/PaisDTO.java
